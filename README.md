@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DomBrainz
+- 👋 Hi, I’m Persan
 - 👀 I’m interested in becoming a network security engineer
 - 🌱 I’m currently doing the comptia a+ certification and increasing my ability to code in java 
 - 💞️ I’m looking to collaborate on projects in java
